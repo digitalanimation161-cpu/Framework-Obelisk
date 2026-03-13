@@ -1,2 +1,15 @@
-# Framework-Obelisk
-Fitur Script: Reconnaissance: Subfinder + httpx + Nmap + Gobuster DNS Vuln Scanning: Nuclei (critical/high/medium) + SQLMap + XSStrike Fuzzing: FFUF directory + Arjun parameter discovery JS Analysis: Linkfinder untuk endpoint/secret extraction Automated Reporting: Markdown report dengan findings
+# Obelisk Website Pentest Tools 🛡️
+
+Comprehensive penetration testing toolkit for web applications. Built for authorized security professionals.
+
+## Features
+- **Reconnaissance**: Subdomain enumeration, directory fuzzing, port scanning
+- **Vulnerability Scanning**: XSS, SQLi, LFI/RFI detection
+- **Exploitation**: Automated SQLi exploitation, XSS payloads
+- **Production-ready**: Color output, configurable, multi-threaded
+
+## Installation
+```bash
+git clone https://github.com/yourusername/obelisk-pentest-tools.git
+cd obelisk-pentest-tools
+pip install -r requirements.txt
