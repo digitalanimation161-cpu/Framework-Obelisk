@@ -10,6 +10,6 @@ Comprehensive penetration testing toolkit for web applications. Built for author
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/obelisk-pentest-tools.git
+git clone https://github.com/digitalanimation161-cpu/Framework-Obelisk.git
 cd obelisk-pentest-tools
 pip install -r requirements.txt
